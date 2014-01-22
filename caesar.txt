@@ -10,4 +10,7 @@ two more lines are needed
 when will we have enough?
 adding additional lines
 again
+adding this line to create a conflict.....
+Let's see what happens!
+and a extra line for good measure
 
